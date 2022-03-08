@@ -1,3 +1,3 @@
 # Euron-Git-Tutorial
 
-[바로가기](https://cafe.naver.com/ewhaeuron/177)
+[Pull Request] 2022년 03월08일 21시 37분 이수연
